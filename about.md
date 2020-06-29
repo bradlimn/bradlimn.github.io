@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 ---
 
-Some information about you!
+this is my little corner of the internet, welcome
 
-### More Information
+### things you might find here
 
-A place to include any other types of information that you'd like to include about yourself.
+drawing, coding, video games, coffee, gay stuff, cooking, board games, birding, photography, travel
 
-### Contact me
+### things you won't find here
 
-[email@domain.com](mailto:email@domain.com)
+politics, hate
